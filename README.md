@@ -18,11 +18,3 @@ This function will change the grid according to the selected option in the selec
 ## clrGrid()
 
 This function will clear the grid.
-
-# How to run the project
-
-- Clone the project `git clone https://github.com/venith-huggina/hide-three-gifts.git`
-- Open the `index.html` file in the browser
-
-
-
