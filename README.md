@@ -3,9 +3,6 @@
 This is a simple game where you have to find three gifts in a grid. There are three levels in this game. You can select the level and start playing. There are three types of boxes in the grid. One is gift box, one is danger box and one is miss box. If you click on the gift box then you will get one star. If you click on the danger box then you will lose the game. If you click on the miss box then you will get nothing. You have to find three gifts in the grid to win the game. If you find three gifts then you will get three stars.
 
 # Demo
-
-## https://venith-huggina.github.io/hide-three-gifts/
-
 ![image](https://user-images.githubusercontent.com/84177920/198501831-0a3eb329-8121-4cc3-b3f1-89745e669115.png)
 
 # functions
